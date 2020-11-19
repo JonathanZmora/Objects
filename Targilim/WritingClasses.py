@@ -24,3 +24,8 @@ c1 = Car("wrangler", 123456789, "black", 2019)
 j1.details()
 c1.details()
 
+
+
+
+
+
